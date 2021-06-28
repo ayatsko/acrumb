@@ -15,7 +15,7 @@ sass:
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "a crumb"
-description:	       "zero-waste-living and climate crisis commentary from an enthusiastic environmentalist"
+description:	       "zero-waste-living and climate crisis commentary written"
 author:              "me"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
