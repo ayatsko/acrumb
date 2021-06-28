@@ -1,19 +1,13 @@
 # Change 'comments' to true for Disqus comments
 disqus:
   comments: true
-  disqus_shortname: 'abbey yatsko'
+  disqus_shortname: 'a crumb'
 
 # If you are not using Google Analytics, please change 'google-ID' to an empty string
 google-ID: ''
 
 menu:
-- {name: 'Research', folder: 'pages', file: 'research.html'}
-- {name: 'Outreach', folder: 'pages', file: 'outreach.html'}
-- {name: 'a crumb', folder: 'pages', file: 'a-crumb.html'}
-- {name: 'Photos', folder: 'pages', file: 'photos.html'}
-- {name: 'About', folder: 'pages', file: 'about.html'}
-- {name: 'Contact', folder: 'pages', file: 'contact.html'}
-- {name: 'CV', folder: 'pages', file: 'cv.html'}
+
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
