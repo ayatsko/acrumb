@@ -14,8 +14,8 @@ sass:
   style: :nested
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "abbey yatsko"
-description:	       "PhD student, apprentice of nature, and sustainable living advocate, written"
+title:		           "a crumb"
+description:	       "zero-waste-living and climate crisis commentary from an enthusiastic environmentalist"
 author:              "me"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
