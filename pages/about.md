@@ -2,6 +2,8 @@
 layout: misc
 title: About
 ---
+![]({{ site.url }}{{ site.baseurl }}/pics/IMG_5739.JPG)
+
 Nice to meet you! My name is Abbey and I am the author of *a crumb*. *a crumb* is rooted in my curiosity and commitment to discovering sustainable harmony between society and the environment. Take a crumb or leave a crumb in our journey to better understand our role and opportunity to live alongside the natural world.
 
 I am a PhD student studying how carbon moves among and through forest systems. As a member of the University of Miami Biology Department, I investigate global questions in carbon cycling, forest systems, and decomposition. While the scientific process guides a lot of my thinking as a student, I am curious as to how we can expand science past publications, journals, and datasets. Science communication has an ever-important role in modern society, and I hope that some of the thoughts placed here on *a crumb* can begin to bridge the gap between citizens and the scientific world. 
